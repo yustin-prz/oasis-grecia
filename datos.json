@@ -44,6 +44,22 @@
       ],
       "fechaCreacion": "2026-03-10T19:35:11.354Z",
       "id": "mml0f08qwg1"
+    },
+    {
+      "nombre": "Jonathan",
+      "apellido": "Valenciano",
+      "correo": "jonvalenciano@gmail.com",
+      "telefono": "87572898",
+      "notas": "",
+      "instrumentos": [
+        "Piano"
+      ],
+      "encargados": [
+        "director",
+        "secuencias"
+      ],
+      "fechaCreacion": "2026-03-10T19:36:00.698Z",
+      "id": "mml0g2beqwr"
     }
   ],
   "instrumentos": [
