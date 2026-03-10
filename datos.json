@@ -154,12 +154,30 @@
       "2026-03:Piano": {
         "enviado": true,
         "fecha": "2026-03-10T19:40:59.995Z"
+      },
+      "2026-03:Bateria": {
+        "enviado": true,
+        "fecha": "2026-03-10T19:41:42.635Z"
       }
     },
     "2026-03:mml0g2beqwr": [
       "0-dom",
       "1-sab",
       "2-dom"
+    ],
+    "2026-03:mml0lbaanfn": [
+      "0-sab",
+      "1-sab",
+      "3-sab"
+    ],
+    "2026-03:mml0kezewxj": [
+      "0-sab",
+      "0-dom",
+      "1-sab",
+      "1-dom",
+      "2-dom",
+      "2-sab",
+      "3-dom"
     ]
   }
 }
