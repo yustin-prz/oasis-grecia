@@ -28,7 +28,8 @@
   "instrumentos": [
     "Guitarra",
     "Piano",
-    "Bajo"
+    "Bajo",
+    "Batería"
   ],
   "coordinadores": {
     "Guitarra": "mmkst4loyxr"
