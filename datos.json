@@ -29,6 +29,7 @@
   "passwords": {
     "superadmin": "hg10hvh",
     "coordinador": "h8xvkyr",
-    "visitante": "hv3cbuk"
+    "visitante": "hv3cbuk",
+    "__superadmin__": "huvsekr"
   }
 }
