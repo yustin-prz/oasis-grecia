@@ -89,6 +89,19 @@
       ],
       "fechaCreacion": "2026-03-10T19:37:43.010Z",
       "id": "mml0i99e8vx"
+    },
+    {
+      "nombre": "Ariel",
+      "apellido": "Corella",
+      "correo": "ariel@gmail.com",
+      "telefono": "84683358",
+      "notas": "",
+      "instrumentos": [
+        "Bateria"
+      ],
+      "encargados": [],
+      "fechaCreacion": "2026-03-10T19:39:23.738Z",
+      "id": "mml0kezewxj"
     }
   ],
   "instrumentos": [
