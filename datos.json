@@ -32,5 +32,19 @@
     "visitante": "hv3cbuk",
     "__superadmin__": "huvsekr",
     "mmkst4loyxr": "huvsekr"
+  },
+  "disponibilidadGlobal": {
+    "2026-03:mmkst4loyxr": [
+      "0-dom",
+      "2-sab",
+      "2-dom",
+      "3-sab"
+    ],
+    "_estado": {
+      "2026-03:Guitarra": {
+        "enviado": true,
+        "fecha": "2026-03-10T19:21:26.953Z"
+      }
+    }
   }
 }
