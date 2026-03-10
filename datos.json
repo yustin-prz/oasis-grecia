@@ -60,6 +60,19 @@
       ],
       "fechaCreacion": "2026-03-10T19:36:00.698Z",
       "id": "mml0g2beqwr"
+    },
+    {
+      "nombre": "David",
+      "apellido": "Soto",
+      "correo": "davidsoto@gmail.com",
+      "telefono": "83402031",
+      "notas": "",
+      "instrumentos": [
+        "Bateria"
+      ],
+      "encargados": [],
+      "fechaCreacion": "2026-03-10T19:37:01.963Z",
+      "id": "mml0hdl702z"
     }
   ],
   "instrumentos": [
@@ -70,7 +83,8 @@
   ],
   "coordinadores": {
     "Guitarra": "mmkst4loyxr",
-    "Piano": "mml0f08qwg1"
+    "Piano": "mml0f08qwg1",
+    "Bateria": "mml0hdl702z"
   },
   "passwords": {
     "superadmin": "hg10hvh",
