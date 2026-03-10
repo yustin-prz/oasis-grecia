@@ -28,6 +28,22 @@
       "encargados": [],
       "fechaCreacion": "2026-03-10T19:33:57.907Z",
       "id": "mml0dfkj41v"
+    },
+    {
+      "nombre": "Arturo",
+      "apellido": "Gonzalez",
+      "correo": "arturogonzalez@gmail.com",
+      "telefono": "88076848",
+      "notas": "",
+      "instrumentos": [
+        "Piano"
+      ],
+      "encargados": [
+        "director",
+        "secuencias"
+      ],
+      "fechaCreacion": "2026-03-10T19:35:11.354Z",
+      "id": "mml0f08qwg1"
     }
   ],
   "instrumentos": [
@@ -37,7 +53,8 @@
     "Bateria"
   ],
   "coordinadores": {
-    "Guitarra": "mmkst4loyxr"
+    "Guitarra": "mmkst4loyxr",
+    "Piano": "mml0f08qwg1"
   },
   "passwords": {
     "superadmin": "hg10hvh",
