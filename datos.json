@@ -73,6 +73,22 @@
       "encargados": [],
       "fechaCreacion": "2026-03-10T19:37:01.963Z",
       "id": "mml0hdl702z"
+    },
+    {
+      "nombre": "Ruben",
+      "apellido": "Gonzalez",
+      "correo": "rubengonzalez@gmail.com",
+      "telefono": "87613993",
+      "notas": "",
+      "instrumentos": [
+        "Bajo"
+      ],
+      "encargados": [
+        "director",
+        "secuencias"
+      ],
+      "fechaCreacion": "2026-03-10T19:37:43.010Z",
+      "id": "mml0i99e8vx"
     }
   ],
   "instrumentos": [
@@ -84,7 +100,8 @@
   "coordinadores": {
     "Guitarra": "mmkst4loyxr",
     "Piano": "mml0f08qwg1",
-    "Bateria": "mml0hdl702z"
+    "Bateria": "mml0hdl702z",
+    "Bajo": "mml0i99e8vx"
   },
   "passwords": {
     "superadmin": "hg10hvh",
