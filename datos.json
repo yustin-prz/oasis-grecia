@@ -102,6 +102,20 @@
       "encargados": [],
       "fechaCreacion": "2026-03-10T19:39:23.738Z",
       "id": "mml0kezewxj"
+    },
+    {
+      "nombre": "Jeremy",
+      "apellido": "Conejo",
+      "correo": "jeremy@gmail.com",
+      "telefono": "88087590",
+      "notas": "",
+      "instrumentos": [
+        "Bajo",
+        "Bateria"
+      ],
+      "encargados": [],
+      "fechaCreacion": "2026-03-10T19:40:05.602Z",
+      "id": "mml0lbaanfn"
     }
   ],
   "instrumentos": [
