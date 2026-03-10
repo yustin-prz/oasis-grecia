@@ -1,0 +1,10 @@
+{
+  "personas": [],
+  "instrumentos": ["Guitarra", "Piano", "Bajo", "Batería", "Violín", "Trompeta"],
+  "coordinadores": {},
+  "passwords": {
+    "superadmin": "hg10hvh",
+    "coordinador": "h8xvkyr",
+    "visitante": "hv3cbuk"
+  }
+}
