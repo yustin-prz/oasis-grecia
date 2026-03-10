@@ -11,6 +11,18 @@
       ],
       "fechaCreacion": "2026-03-10T15:44:47.090Z",
       "id": "mmks6pdfrld"
+    },
+    {
+      "nombre": "Jorge",
+      "apellido": "Alfaro",
+      "correo": "jorgealfaro@gmail.com",
+      "telefono": "88888888",
+      "notas": "",
+      "instrumentos": [
+        "Guitarra"
+      ],
+      "fechaCreacion": "2026-03-10T15:45:53.698Z",
+      "id": "mmks84rm7r7"
     }
   ],
   "instrumentos": [
