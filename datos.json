@@ -1,5 +1,16 @@
 {
-  "personas": [],
+  "personas": [
+    {
+      "nombre": "Yustin",
+      "apellido": "Pérez",
+      "correo": "perezcastroyus23@gmail.com",
+      "telefono": "60290774",
+      "notas": "",
+      "instrumentos": [],
+      "fechaCreacion": "2026-03-10T15:52:13.795Z",
+      "id": "mmksga1vy8g"
+    }
+  ],
   "instrumentos": [
     "Guitarra",
     "Piano",
@@ -8,7 +19,9 @@
     "ViolÃÂ­n",
     "Trompeta"
   ],
-  "coordinadores": {},
+  "coordinadores": {
+    "Guitarra": "mmksga1vy8g"
+  },
   "passwords": {
     "superadmin": "hg10hvh",
     "coordinador": "h8xvkyr",
